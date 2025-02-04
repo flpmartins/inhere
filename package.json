@@ -16,6 +16,8 @@
     "react-native": "0.76.6"
   },
   "devDependencies": {
+    "@rocketseat/eslint-config": "2.1.0",
+    "eslint": "8.56.0",
     "@babel/core": "^7.25.2",
     "@types/react": "~18.3.12",
     "typescript": "^5.3.3"
